@@ -54,10 +54,6 @@ O **MyTrend** destaca-se significativamente ao oferecer uma abordagem inovadora 
 
 O **MyTrend** é uma plataforma inclusiva, inteligente e conveniente que reconhece a individualidade de cada usuário e adapta suas recomendações de acordo com o contexto. Ao proporcionar uma experiência de usuário excepcional, com recomendações relevantes e funcionais, o **MyTrend** se posiciona para se destacar no mercado de aplicativos de moda e estilo pessoal, agregando valor tanto para o consumidor quanto para as empresas parceiras.
 
----
 
-### Instruções para Clonagem e Instalação do Projeto
 
-1. Clone este repositório para sua máquina local:
-   ```bash
-   git clone https://github.com/Wasserman97/MyTrendAll_Tech.git
+
